@@ -3,7 +3,7 @@
 - 🚧 I am thinking and working on a project to develop software to bring personalized analytics to the enterprise.
 - 🌱 I’m currently learning Python, Web Development, App Development.
 - 💞️ I’m looking to collaborate on interesting research projects and and personalized analytics. 
-- 📫 How to reach me on Twitter @statuser or via [my university profile] (https://marriott.byu.edu/directory/details?id=62191)
+- 📫 How to reach me on Twitter @statuser or via [my university profile](https://marriott.byu.edu/directory/details?id=62191)
 
 <!---
 statuser/statuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
